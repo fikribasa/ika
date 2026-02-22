@@ -6,6 +6,7 @@ Online Train Reservation System
 ## Requirements
 
 * Go
+* PostgreSQL
 
 ## Installation
 
