@@ -14,3 +14,7 @@ Online Train Reservation System
 go mod tidy
 go build
 ```
+
+## Usage
+
+### Database
